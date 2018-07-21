@@ -6,7 +6,11 @@ It would analyse the spectrogram of the person’s voice, run it through a Machi
 
 ## Methodology
 The project is carried out in the following steps:
+
+
 ![asdf](https://user-images.githubusercontent.com/34811051/43038331-0cd8369c-8d35-11e8-8ab2-05e384d5da81.jpg)
+
+![qwert](https://user-images.githubusercontent.com/34811051/43038368-66bfb586-8d35-11e8-8f18-74f335f62ebf.png)
 
 ## Application
 This device and system created can directly be used by people to assess their mental health.
