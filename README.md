@@ -20,5 +20,7 @@ General medical practitioners can use the standalone device to screen for clinic
 
 Existing applications in playstore are based on text and not on voice. Diagnosis with voice has proved to be more accurate. The model we propose uses the vocal parameters and not the content, hence there is no issues of infringement of privacy.
 
+![zxcv](https://user-images.githubusercontent.com/34811051/43038433-20289a06-8d36-11e8-939a-b94e3cfec069.jpg)
+
   
 
